@@ -1,6 +1,6 @@
 # Web-Browser
 A Simple GUI Web browser with basic Functionality 
-Made with <3 with Python and QT freamwork.
+Made with :heart: with Python and QT freamwork.
 
 version : 1.0
 
