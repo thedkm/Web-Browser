@@ -4,7 +4,7 @@ Made with <3 with Python and QT freamwork.
 
 version : 1.0
 
-Requirements: Python 3.5 ,PyQT 5.6 , QT
+Requirements: Python 3.5+ ,PyQT 5.6+ 
 
 
 Compile and run using "py browser.py" Command in Cmd
